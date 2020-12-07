@@ -52,13 +52,14 @@ p {
 
 .nav-item {
   padding: 0px 18px;
-  
+
 
 }
 
 .nav-link {
   font-size: 1.2rem;
-  font-family: "Montserrat"
+  font-family: "Montserrat-Light"
+
 }
 
 /* Button */
